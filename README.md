@@ -1,10 +1,13 @@
 <h1>Hi, I'm Dale! <br/><a href="https://github.com/joshmadakor1">Senior IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System Consultant, Linux System Administrator</a> </h1>
 
-<h2>👨‍💻 Certifications:</h2>
--<h2></h2><b> CompTIA <br></h2>
+<h2>👨‍💻 <a href="https://www.credly.com/users/dale-banks">Certifications</a>:</h2>
+<b>CompTIA</b><br>
     - A+<br>
     - Network+<br>
-    - Security+<br>
+    - Security+<br><br>
+    <b>Microsoft</b><br>
+    - Azure Fundamentals<br>
+    
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
