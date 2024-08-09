@@ -4,7 +4,9 @@
 <b>CompTIA</b><br>
     - A+<br>
     - Network+<br>
-    - Security+<br><br>
+    - Security+<br>
+    - IT Operations Specialist – CIOS Stackable Certification<br><br>
+    
     <b>Microsoft</b><br>
     - Azure Fundamentals<br>
     
