@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dale! <br/><a href="https://github.com/joshmadakor1">IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System Consultant</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Dale! <br/><a href="https://github.com/joshmadakor1">Senior IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System Consultant</a> </h1>
 
 <h2>👨‍💻 Certifications:</h2>
 
