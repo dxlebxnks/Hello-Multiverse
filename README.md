@@ -1,10 +1,10 @@
 <h1>Hi, I'm Dale! <br/><a href="https://github.com/joshmadakor1">Senior IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System Consultant, Linux System Administrator</a> </h1>
 
 <h2>👨‍💻 Certifications:</h2>
--<b> CompTIA
-    - A+
-    - Network+
-    - Security+
+-<h2></h2><b> CompTIA <br></h2>
+    - A+<br>
+    - Network+<br>
+    - Security+<br>
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
