@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 - **System Administration**: Server setup, user management, system security
 - **Networking**: IP configuration, firewall setup
 - **Home Lab Creation**:
-  - **Virtualization**: Setting up virtual machines using platforms like VMware, VirtualBox
+  - **Virtualization**: Setting up virtual machines using platforms like VMware, Hyper-V, and VirtualBox
   - **Networking**: Designing and configuring network topologies, VLANs
   - **Storage Solutions**: Implementing and managing storage arrays and RAID configurations
   - **Automation**: Scripting and automating tasks for efficient lab management
