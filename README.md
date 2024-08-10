@@ -1,64 +1,54 @@
-<h1>Hi, I'm Dale! <br/><a href="https://github.com/joshmadakor1">Senior IT Support</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System Consultant, Linux System Administrator</a> </h1>
+# Hi there, I'm Dale Banks 👋
 
-<h2>👨‍💻 <a href="https://www.credly.com/users/dale-banks">Certifications</a>:</h2>
-<b>CompTIA</b><br>
-    - A+<br>
-    - Network+<br>
-    - Security+<br>
-    - IT Operations Specialist – CIOS Stackable Certification<br><br>
-    
-    <b>Microsoft</b><br>
-    - Azure Fundamentals<br>
-    
-<h2>👨‍💻 IT Projects:</h2>
+Welcome to my GitHub profile! I'm a System Consultant with experience in IT support, server management, and PC building. I enjoy working on tech projects and exploring new technologies. Here’s a bit about me and my work:
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## 🚀 About Me
 
-<h2>📺 Popular YouTube Videos</h2>
+- **Position**: System Consultant for Peraton and the U.S. Senate Sergeant At Arms IT Helpdesk
+- **Certifications**: CompTIA A+, Network+
+- **Current Focus**: Server management, containerization, and media server setup
+- **Contact**: 
+  - **Email**: [Your Email](mailto:your.email@example.com)
+  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## 🛠️ Skills
 
-<h2> 🤳 Connect with me:</h2>
+- **Hardware**: PC assembly and configuration
+- **Operating Systems**: Windows 11, Linux
+- **Server Management**: Unraid, Docker, NAS
+- **Programming**: Basic scripting, automation
+- **Networking**: IP configuration, firewall setup
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 💼 Projects
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### **Unraid Server Setup**
+- **Description**: Set up and configured an Unraid server with various containers and plugins.
+- **Components**:
+  - **Hardware**: HP Compaq 6005 Pro SFF, AMD Athlon II x2 B24, 32 GB RAM
+  - **Containers**: Plex, Soulseek, Sonarr, Radarr, Lidarr, SABnzbd, NZBGet, Backblaze Personal Backup
+  - **Plugins**: Unassigned Devices, Unassigned Devices Preclear, Dynamix File Manager
+- **Details**: [Link to Project Documentation](#)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Custom PC Build**
+- **Description**: Assembled a high-performance PC for gaming and productivity.
+- **Components**:
+  - **CPU**: AMD Ryzen 5 5600X
+  - **Motherboard**: Gigabyte X570 AORUS ELITE
+  - **Memory**: Corsair Vengeance RGB Pro 32 GB
+  - **Storage**: Seagate FireCuda 520 1 TB SSD
+  - **Video Card**: Gigabyte GAMING OC GeForce RTX 3050
+  - **Power Supply**: EVGA SuperNOVA 850 GA
+  - **Operating System**: Windows 11 Pro
+- **Details**: [Link to Build Overview](#)
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide_border=true)
+
+## 🌟 Let's Connect
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my other projects on [GitHub](https://github.com/your-github-username).
+
+---
+
+Feel free to customize this template with your actual contact details, project links, and GitHub username. This will give visitors to your GitHub profile a clear overview of your skills, experience, and projects.
