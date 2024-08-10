@@ -1,6 +1,6 @@
 # Hi there, I'm Dale Banks 👋
 
-Welcome to my GitHub profile! I'm a System Consultant with experience in IT support, server management, and PC building. I enjoy working on tech projects and exploring new technologies. Here’s a bit about me and my work:
+Welcome to my GitHub profile! I'm a System Consultant with experience in IT support, system administration, server management, and PC building. I enjoy working on tech projects and exploring new technologies. Here’s a bit about me and my work:
 
 ## 🚀 About Me
 
@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a System Consultant with experience in IT supp
 - **Certifications**: CompTIA A+, Network+
 - **Current Focus**: Server management, containerization, and media server setup
 - **Contact**: 
-  - **Email**: [Your Email](mailto:your.email@example.com)
-  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+  - **Email**: [Your Email](mailto:dalebanks@gmail.com)
+  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dalebanks)
 
 ## 🛠️ Skills
 
@@ -39,7 +39,11 @@ Welcome to my GitHub profile! I'm a System Consultant with experience in IT supp
   - **Video Card**: Gigabyte GAMING OC GeForce RTX 3050
   - **Power Supply**: EVGA SuperNOVA 850 GA
   - **Operating System**: Windows 11 Pro
-- **Details**: [Link to Build Overview](#)
+- **Details**: [DillynsRig GitHub Repository](https://github.com/dxlebxnks/DillynsRig)
+
+### **Active Directory Home Lab**
+- **Description**: Repository for setting up and managing an Active Directory home lab environment.
+- **Link**: [Active Directory Home Lab](https://github.com/dxlebxnks/ActiveDirectoryHomeLab)
 
 ## 📈 GitHub Stats
 
@@ -51,4 +55,4 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-pro
 
 ---
 
-Feel free to customize this template with your actual contact details, project links, and GitHub username. This will give visitors to your GitHub profile a clear overview of your skills, experience, and projects.
+Feel free to replace placeholders with your actual details and GitHub username. This profile will help showcase your skills, projects, and interests to visitors.
