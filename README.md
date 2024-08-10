@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 - **Current Focus**: Server management, containerization, and media server setup
 - **Experience**: System Administration
 - **Contact**: 
-  - **Email**: [Your Email](mailto:your.email@example.com)
-  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+  - **Email**: [My Email](mailto:dalebanks@gmail.com)
+  - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dalebanks)
 
 ## 🛠️ Skills
 
 - **Hardware**: PC assembly and configuration
-- **Operating Systems**: Windows 11, Linux
-- **Server Management**: Unraid, Docker, NAS
+- **Operating Systems**: Windows 11, Linux, Server 2019, 2022
+- **Server Management**: Unraid, Docker, NAS, ESXi
 - **System Administration**: Server setup, user management, system security
 - **Programming**: Basic scripting, automation
 - **Networking**: IP configuration, firewall setup
