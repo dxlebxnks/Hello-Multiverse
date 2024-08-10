@@ -1,12 +1,12 @@
-# Hi there, I'm Dale Banks 👋
+# Hi there, I'm Dale 👋
 
 Welcome to my GitHub profile! I'm a System Consultant with extensive experience in IT support, system administration, server management, and PC building. I enjoy working on tech projects and exploring new technologies. Here’s a bit about me and my work:
 
 ## 🚀 About Me
 
 - **Position**: System Consultant for Peraton and the U.S. Senate Sergeant At Arms IT Helpdesk
-- **Certifications**: CompTIA A+, Network+
-- **Current Focus**: Server management, containerization, and media server setup
+- **Certifications**: CompTIA A+, Network+, Certified Azure Fundamentals
+- **Current Focus**: Server management, containerization, media server setup, and Linux
 - **Experience**: System Administration
 - **Contact**: 
   - **Email**: [dalebanks@gmail.com](mailto:dalebanks@gmail.com)
@@ -29,16 +29,14 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 ## 💼 Projects
 
 ### **Unraid Server Setup**
-- **Description**: Set up and configured an Unraid server with various containers and plugins.
-- **Components**:
-  - **Hardware**: HP Compaq 6005 Pro SFF, AMD Athlon II x2 B24, 32 GB RAM
-  - **Containers**: Plex, Soulseek, Sonarr, Radarr, Lidarr, SABnzbd, NZBGet, Backblaze Personal Backup
-  - **Plugins**: Unassigned Devices, Unassigned Devices Preclear, Dynamix File Manager
+- **Description**: Configured an Unraid server with various containers and plugins, including Plex, Soulseek, Sonarr, Radarr, Lidarr, SABnzbd, NZBGet, and Backblaze Personal Backup. 
+- **Components**: HP Compaq 6005 Pro SFF, AMD Athlon II x2 B24, 32 GB RAM, with two 1 TB HDDs (ST1000DM003-1CH162 and WDC_WD1002FBYS-18W8B0). Planned upgrades include removing the DVD drive and adding a 4-bay 2.5" SSD caddy.
+- **Plugins**: Unassigned Devices, Unassigned Devices Preclear, Dynamix File Manager.
 - **Details**: [Link to Project Documentation](#)
 
 ### **Custom PC Build**
 - **Description**: Assembled a high-performance PC for gaming and productivity.
-- **Components**:
+- **Components**: 
   - **CPU**: AMD Ryzen 5 5600X
   - **Motherboard**: Gigabyte X570 AORUS ELITE
   - **Memory**: Corsair Vengeance RGB Pro 32 GB
@@ -63,7 +61,3 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 ## 🌟 Let's Connect
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dalebanks) or check out my other projects on [GitHub](https://github.com/dxlebxnks?tab=repositories).
-
----
-
-This README will give visitors a comprehensive view of your skills, projects, and future plans.
