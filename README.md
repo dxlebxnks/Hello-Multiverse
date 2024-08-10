@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 
 ## 🚀 About Me
 
-- **Position**: System Consultant for Peraton and the U.S. Senate Sergeant At Arms IT Helpdesk
+- **Position**: System Consultant for Peraton at the US Senate
 - **Certifications**: CompTIA A+, Network+, Certified Azure Fundamentals
 - **Current Focus**: Server management, containerization, media server setup, and Linux
 - **Experience**: System Administration
