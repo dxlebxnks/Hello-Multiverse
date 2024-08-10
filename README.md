@@ -58,13 +58,12 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 
 ## 📈 GitHub Stats
 
-![Dale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide_border=true)
+![Dale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxlebxnks&show_icons=true&hide_title=true&hide_border=true)
 
 ## 🌟 Let's Connect
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dalebanks) or check out my other projects on [GitHub](https://github.com/your-github-username).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dalebanks) or check out my other projects on [GitHub](https://github.com/dxlebxnks?tab=repositories).
 
 ---
 
-Feel free to replace placeholders with your actual GitHub username. This profile will help showcase your skills, projects, and interests to visitors.
-
+This README will give visitors a comprehensive view of your skills, projects, and future plans.
