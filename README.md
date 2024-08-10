@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 - **Details**: [DillynsRig GitHub Repository](https://github.com/dxlebxnks/DillynsRig)
 
 ### **Active Directory Home Lab**
-- **Description**: Repository for setting up and managing an Active Directory home lab environment.
+- **Description**: Repository for setting up and managing an Active Directory home lab environment. Includes multiple workstations, a Windows Server 2019 file server, a Windows Server 2019 domain server, and a Samba file server.
 - **Link**: [Active Directory Home Lab](https://github.com/dxlebxnks/ActiveDirectoryHomeLab)
 
 ### **Upcoming Projects**
@@ -61,3 +61,4 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 ## 🌟 Let's Connect
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dalebanks) or check out my other projects on [GitHub](https://github.com/dxlebxnks?tab=repositories).
+
