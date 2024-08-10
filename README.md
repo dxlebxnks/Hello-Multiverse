@@ -1,21 +1,23 @@
 # Hi there, I'm Dale Banks 👋
 
-Welcome to my GitHub profile! I'm a System Consultant with experience in IT support, system administration, server management, and PC building. I enjoy working on tech projects and exploring new technologies. Here’s a bit about me and my work:
+Welcome to my GitHub profile! I'm a System Consultant with extensive experience in IT support, system administration, server management, and PC building. I enjoy working on tech projects and exploring new technologies. Here’s a bit about me and my work:
 
 ## 🚀 About Me
 
 - **Position**: System Consultant for Peraton and the U.S. Senate Sergeant At Arms IT Helpdesk
 - **Certifications**: CompTIA A+, Network+
 - **Current Focus**: Server management, containerization, and media server setup
+- **Experience**: System Administration
 - **Contact**: 
-  - **Email**: [Your Email](mailto:dalebanks@gmail.com)
-  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dalebanks)
+  - **Email**: [Your Email](mailto:your.email@example.com)
+  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ## 🛠️ Skills
 
 - **Hardware**: PC assembly and configuration
 - **Operating Systems**: Windows 11, Linux
 - **Server Management**: Unraid, Docker, NAS
+- **System Administration**: Server setup, user management, system security
 - **Programming**: Basic scripting, automation
 - **Networking**: IP configuration, firewall setup
 
