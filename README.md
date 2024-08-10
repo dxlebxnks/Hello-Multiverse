@@ -9,17 +9,22 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 - **Current Focus**: Server management, containerization, and media server setup
 - **Experience**: System Administration
 - **Contact**: 
-  - **Email**: [My Email](mailto:dalebanks@gmail.com)
-  - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dalebanks)
+  - **Email**: [dalebanks@gmail.com](mailto:dalebanks@gmail.com)
+  - **LinkedIn**: [linkedin.com/in/dalebanks](https://www.linkedin.com/in/dalebanks)
 
 ## 🛠️ Skills
 
 - **Hardware**: PC assembly and configuration
-- **Operating Systems**: Windows 11, Linux, Server 2019, 2022
-- **Server Management**: Unraid, Docker, NAS, ESXi
+- **Operating Systems**: Windows 11, Linux
+- **Server Management**: Unraid, Docker, NAS
 - **System Administration**: Server setup, user management, system security
-- **Programming**: Basic scripting, automation
 - **Networking**: IP configuration, firewall setup
+- **Home Lab Creation**:
+  - **Virtualization**: Setting up virtual machines using platforms like VMware, VirtualBox
+  - **Networking**: Designing and configuring network topologies, VLANs
+  - **Storage Solutions**: Implementing and managing storage arrays and RAID configurations
+  - **Automation**: Scripting and automating tasks for efficient lab management
+  - **Security**: Configuring firewalls, VPNs, and other security measures for a secure environment
 
 ## 💼 Projects
 
@@ -47,14 +52,19 @@ Welcome to my GitHub profile! I'm a System Consultant with extensive experience 
 - **Description**: Repository for setting up and managing an Active Directory home lab environment.
 - **Link**: [Active Directory Home Lab](https://github.com/dxlebxnks/ActiveDirectoryHomeLab)
 
+### **Upcoming Projects**
+- **Repository Updates**: I plan to update my repositories with photos and screenshots to provide more visual context and details.
+- **Home Network**: Working on a repository for my home network, which will include a detailed diagram.
+
 ## 📈 GitHub Stats
 
 ![Dale's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide_border=true)
 
 ## 🌟 Let's Connect
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my other projects on [GitHub](https://github.com/your-github-username).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dalebanks) or check out my other projects on [GitHub](https://github.com/your-github-username).
 
 ---
 
-Feel free to replace placeholders with your actual details and GitHub username. This profile will help showcase your skills, projects, and interests to visitors.
+Feel free to replace placeholders with your actual GitHub username. This profile will help showcase your skills, projects, and interests to visitors.
+
